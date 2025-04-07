@@ -28,10 +28,6 @@ This project implements a novel Chain-of-Reasoning (CoR) framework to significan
 <img src="./assets/main_graph.png" style="width: 100%;height: 100%">
 </div>
 
-## 🎉 What's New
-
-- **[2025.02.20]** 📣 The training and evaluation code for the CoR is released.
-
 ## 📄 Table of Contents
 
 <details>
@@ -40,7 +36,6 @@ Click to expand the table of contents
 </summary>
 
 - [📝 Introduction](#-introduction)
-- [🎉 What's New](#-whats-new)
 - [📄 Table of Contents](#-table-of-contents)
 - [🔧 Setup Environment](#-setup-environment)
 - [📚 Create MPM dataset](#-create-mpm-dataset)
