@@ -1,6 +1,7 @@
-"""
-This file is largely based on `https://github.com/allenai/open-instruct`
-"""
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+# Adapted from https://github.com/allenai/open-instruct
+
 import argparse
 import logging
 import math
