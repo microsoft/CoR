@@ -1,3 +1,7 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+# Adapted from https://github.com/deepseek-ai/DeepSeek-Prover-V1.5
+
 import re
 line_break_regex = re.compile(r'(?<=\n)')
 
