@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import re
 from itertools import islice
 from utils.post_processing import normalize_answer
