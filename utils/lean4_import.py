@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 _import_all_mathlib = """import Mathlib
 import Mathlib.Algebra.AddConstMap.Basic
 import Mathlib.Algebra.AddTorsor
