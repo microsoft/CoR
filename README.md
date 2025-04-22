@@ -138,7 +138,7 @@ If you find this repository useful, please consider giving star and citing our p
 ```plaintext
 @misc{yu2025chainofreasoningunifiedmathematicalreasoning,
       title={Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective}, 
-      author={Yiyao Yu and Yuxiang Zhang and Dongdong Zhang and Xiao Liang and Hengyuan Zhang and Xingxing Zhang and Ziyi Yang and Mahmoud Khademi and Hany Awadalla and Junjie Wang and Yujiu Yang and Furu Wei},
+      author={Yiyao Yu and Yuxiang Zhang and Dongdong Zhang and Xiao Liang and Hengyuan Zhang and Xingxing Zhang and Mahmoud Khademi and Hany Awadalla and Junjie Wang and Yujiu Yang and Furu Wei},
       year={2025},
       eprint={2501.11110},
       archivePrefix={arXiv},
