@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 prompt = fr"""Now please follow the instructions below to convert the Lean 4 code  (indicated by ``Formal proof in Lean 4: '')  into its informal proof, using the informal problem (indicated by ``Problem: '') as a guide. Please write the corresponding informal solution in natural language (indicated by ``Informal proof: '') given the ``# Problem: '' and ``# Formal proof in Lean 4: '', filling in the ``# Informal proof: '' section.
 
 <Instruction>
