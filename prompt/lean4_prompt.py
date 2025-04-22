@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 prompt = fr"""Now please translate the formal solution in Lean 4 following the instruction below. Please write the corresponding solution in Lean 4 (indicated by ``Formal proof in Lean 4: '') given the ``# Problem: '' and ``# Informal proof: '', filling in the ``# Formal proof in Lean 4: '' section.
 
 You must respond in the following format: 
