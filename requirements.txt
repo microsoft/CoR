@@ -94,7 +94,7 @@ pyzmq==26.2.0
 ray==2.40.0
 referencing==0.35.1
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 rpds-py==0.22.3
 safetensors==0.4.5
 sentencepiece==0.2.0
