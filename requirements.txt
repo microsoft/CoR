@@ -78,7 +78,7 @@ pillow==10.4.0
 prometheus-fastapi-instrumentator==7.0.0
 prometheus_client==0.21.1
 propcache==0.2.1
-protobuf==5.29.1
+protobuf==5.29.5
 psutil==6.1.0
 py-cpuinfo==9.0.0
 pyairports==2.1.1
