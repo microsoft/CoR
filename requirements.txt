@@ -20,7 +20,7 @@ easydict==1.13
 einops==0.8.0
 exceptiongroup==1.2.2
 fastapi==0.115.6
-filelock==3.16.1
+filelock==3.20.3
 flash-attn==2.7.0.post2
 frozenlist==1.5.0
 fsspec==2024.9.0
